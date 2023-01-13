@@ -9,6 +9,7 @@
 ## Intermediate
 - [Credit Card Fraud Detection](https://github.com/ShaileshKumar97/Machine-Learning-Projects/tree/main/Credit_Card_Fraud_Detection)
 - [Food Delivery Time Prediction](https://github.com/ShaileshKumar97/Machine-Learning-Projects/tree/main/Food-Delivery-Time-Prediction) *
+- Instagram Recommendations *
 
 ## Advanced
 
