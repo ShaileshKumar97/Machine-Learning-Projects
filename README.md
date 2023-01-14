@@ -11,7 +11,7 @@
 - [Food Delivery Time Prediction](https://github.com/ShaileshKumar97/Machine-Learning-Projects/tree/main/Food-Delivery-Time-Prediction) *
 - [Instagram Recommendations](https://github.com/ShaileshKumar97/Machine-Learning-Projects/tree/main/Instagram-Recommendations) *
 - [Credit Score Classification](https://github.com/ShaileshKumar97/Machine-Learning-Projects/tree/main/Credit-Score-Classification) *
-- Consumer Complaint Identification *
+- [Consumer Complaint Identification](https://github.com/ShaileshKumar97/Machine-Learning-Projects/tree/main/Consumer-Complaint-Identification) *
 
 ## Advanced
 
